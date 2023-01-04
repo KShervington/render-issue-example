@@ -1,0 +1,19 @@
+{
+  "name": "p4pc-init",
+  "version": "1.0.0",
+  "description": "Thanks for downloading this template!",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express-fileupload": "^1.4.0",
+    "express.js": "^1.0.0",
+    "http": "^0.0.1-security",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.20",
+    "tinymce": "^6.2.0"
+  }
+}
