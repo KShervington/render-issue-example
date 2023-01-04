@@ -4,7 +4,7 @@
   "description": "Thanks for downloading this template!",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
